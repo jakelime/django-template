@@ -12,6 +12,14 @@ TODO
 - None
 
 
+What this template does
+================================================================
+
+.. code-block:: bash
+
+    django-admin startproject mysite
+
+
 Environments
 ================================================================
 
